@@ -158,3 +158,9 @@ describe('En la web de github', function() {
     });
 });
 ```
+Para ejecutar la prueba se deberá ejecutar el siguiente comando:
+```
+gulp
+```
+
+Eso es todo lo que tengo que decir al respecto!
