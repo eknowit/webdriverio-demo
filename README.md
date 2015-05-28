@@ -116,7 +116,7 @@ npm install gulp-jasmine --save-dev
 npm install webdriverio --save-dev
 ```
 Actualizar el archivo gulpfile.js con el siguiente contenido:
-```
+```js
 var gulp = require('gulp');
 var jasmine = require('gulp-jasmine');
 
