@@ -1,0 +1,13 @@
+{
+  "name": "webdriveiodemo",
+  "version": "1.0.0",
+  "description": "WebDriveIO Demo",
+  "main": "index.js",
+  "author": "jlmanrique",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jasmine": "^2.0.1",
+    "webdriverio": "^2.4.5"
+  }
+}
