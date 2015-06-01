@@ -59,7 +59,7 @@ A fin de iniciar jasmine se deberá ejecutar el siguiente comando:
 jasmine init
 ```
 Se creará la carpeta "spec" que contiene los tests.
-Creamos el archivo first.spec.js y agregamos el siguiente contenido:
+Dentro de la carpteta spec creamos el archivo first.spec.js y agregamos el siguiente contenido:
 ```js
 describe("Un test suite", function() {
   it("contenido de un spec", function() {
